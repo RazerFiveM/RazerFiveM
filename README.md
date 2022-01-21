@@ -8,11 +8,9 @@
 
 - 🔭 I’m currently working for **[Mercy Collective](https://github.com/Mercy-Collective)**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All my social media can be found on my **[personal website](https://nielselzinga.nl/)**.
-
-- 📫 You can send me a email on **hello@nielselzinga.nl**
+- 📫 You can send me a email on **faq@mercy-collective.com**
 
 
 ## 🚀 Languages and Tools:
