@@ -1,3 +1,9 @@
+## 👋 About me
+
+I'm Niels, 18 years old and from Leeuwarden, The Netherlands.
+Whenever I have time and desire I enjoy developing.
+
+
 ## ❤ Views and Followers
 
 <div class="shit" style="text-align: center">
